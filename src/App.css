@@ -1,0 +1,14 @@
+.main{
+  width: 400px;
+  height: 250px;
+  display: flex;
+  justify-content: start;
+  text-align: start;
+  margin: 20px;
+  /* background-color: rgb(101, 101, 170); */
+}
+.buttons{
+  width: 400px;
+  height: 250px;
+  background-color: aqua;
+}
